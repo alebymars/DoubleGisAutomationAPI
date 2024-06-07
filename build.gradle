@@ -27,7 +27,6 @@ dependencies {
     }
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
     testRuntimeOnly("org.junit.vintage:junit-vintage-engine")
-    implementation("com.epam.jdi:jdi-dark:1.1.13")
     implementation("io.rest-assured:json-schema-validator:5.4.0")
 }
 
